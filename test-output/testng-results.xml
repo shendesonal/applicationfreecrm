@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-27T07:24:40Z" name="Default suite" finished-at="2023-09-27T07:26:14Z" duration-ms="93731">
+    <groups>
+    </groups>
+    <test started-at="2023-09-27T07:24:40Z" name="Default test" finished-at="2023-09-27T07:26:14Z" duration-ms="93731">
+      <class name="crm.tastcases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:54:40Z" name="setup" finished-at="2023-09-27T12:54:49Z" duration-ms="9352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidateTilte()[pri:1, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:54:49Z" name="ValidateTilte" finished-at="2023-09-27T12:54:49Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTilte -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:54:49Z" name="tearDown" finished-at="2023-09-27T12:54:50Z" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:54:50Z" name="setup" finished-at="2023-09-27T12:54:58Z" duration-ms="8373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCRMlogo()[pri:2, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:54:58Z" name="verifyCRMlogo" finished-at="2023-09-27T12:54:58Z" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCRMlogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:54:58Z" name="tearDown" finished-at="2023-09-27T12:54:58Z" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:54:58Z" name="setup" finished-at="2023-09-27T12:55:07Z" duration-ms="8635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylinks()[pri:3, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:07Z" name="verifylinks" finished-at="2023-09-27T12:55:07Z" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylinks -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:07Z" name="tearDown" finished-at="2023-09-27T12:55:07Z" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:07Z" name="setup" finished-at="2023-09-27T12:55:16Z" duration-ms="9344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Customerslink()[pri:4, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:16Z" name="Customerslink" finished-at="2023-09-27T12:55:17Z" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Customerslink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:17Z" name="tearDown" finished-at="2023-09-27T12:55:17Z" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:17Z" name="setup" finished-at="2023-09-27T12:55:26Z" duration-ms="8773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Pricinglink()[pri:5, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:26Z" name="Pricinglink" finished-at="2023-09-27T12:55:26Z" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pricinglink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:26Z" name="tearDown" finished-at="2023-09-27T12:55:26Z" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:26Z" name="setup" finished-at="2023-09-27T12:55:34Z" duration-ms="8441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SignupLink()[pri:6, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:34Z" name="SignupLink" finished-at="2023-09-27T12:55:34Z" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignupLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:34Z" name="tearDown" finished-at="2023-09-27T12:55:35Z" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:35Z" name="setup" finished-at="2023-09-27T12:55:44Z" duration-ms="9045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ContactLink()[pri:7, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:44Z" name="ContactLink" finished-at="2023-09-27T12:55:44Z" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:44Z" name="tearDown" finished-at="2023-09-27T12:55:44Z" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:44Z" name="setup" finished-at="2023-09-27T12:55:53Z" duration-ms="8938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FeaturesLink()[pri:8, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:53Z" name="FeaturesLink" finished-at="2023-09-27T12:55:53Z" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FeaturesLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:53Z" name="tearDown" finished-at="2023-09-27T12:55:53Z" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:55:53Z" name="setup" finished-at="2023-09-27T12:56:02Z" duration-ms="8799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginToApplication()[pri:9, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:56:02Z" name="loginToApplication" finished-at="2023-09-27T12:56:13Z" duration-ms="11438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:crm.tastcases.LoginPageTest@5c80cf32]" started-at="2023-09-27T12:56:13Z" name="tearDown" finished-at="2023-09-27T12:56:14Z" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- crm.tastcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
